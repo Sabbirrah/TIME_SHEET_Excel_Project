@@ -9,7 +9,7 @@ This Project contain the following contents:
 
 1.2 Concatenate
 
-- 2. Timesheet creation
+- 2 Timesheet creation
 
 2.1 Dropdown List
 
@@ -29,7 +29,7 @@ This Project contain the following contents:
 
 - 5 Creation of New Sheets
 
-- 6. Period Report
+- 6 Period Report
 
 6.1 Various Functions for Tables
 
