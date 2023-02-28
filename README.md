@@ -7,7 +7,7 @@ This Project contain the following contents:
 
 1 Creation of Employer details
 
-1.2 Concatenate 
+1.2 Concatenate
 
 2. Timesheet creation
 
