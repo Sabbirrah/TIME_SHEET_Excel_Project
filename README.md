@@ -52,10 +52,8 @@ Week_Table
 
 Report
 
-![3](https://user-images.githubusercontent.com/116674419/221738072-e97fdebd-aa83-4384-9a81-818168d425fb.png)
-
+![3](https://user-images.githubusercontent.com/116674419/221738323-606cb878-aebb-45c0-91b3-64aae9dcc634.png)
 
 Dashboard
 
 ![4](https://user-images.githubusercontent.com/116674419/221738142-474316a7-cd94-4f00-9399-22da9076d50a.png)
-
