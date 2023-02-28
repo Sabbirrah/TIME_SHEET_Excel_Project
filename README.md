@@ -46,3 +46,16 @@ Emplyee_Details
 
 ![1](https://user-images.githubusercontent.com/116674419/221737700-41872d64-ff3d-4c17-8222-ab93a622055b.png)
 
+Week_Table
+
+![2](https://user-images.githubusercontent.com/116674419/221737960-a08313c1-26f2-4523-a19b-4b37305ab47c.png)
+
+Report
+
+![3](https://user-images.githubusercontent.com/116674419/221738072-e97fdebd-aa83-4384-9a81-818168d425fb.png)
+
+
+Dashboard
+
+![4](https://user-images.githubusercontent.com/116674419/221738142-474316a7-cd94-4f00-9399-22da9076d50a.png)
+
