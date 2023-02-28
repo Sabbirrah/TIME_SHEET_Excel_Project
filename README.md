@@ -41,3 +41,8 @@ This Project contain the following contents:
 
 - 7 Dashboard
 
+
+Emplyee_Details
+
+![1](https://user-images.githubusercontent.com/116674419/221737700-41872d64-ff3d-4c17-8222-ab93a622055b.png)
+
