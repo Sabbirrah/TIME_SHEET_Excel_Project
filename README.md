@@ -1,7 +1,7 @@
 # TIME_SHEET
 
 This Project it is to create a period sheet for a small company to keep track to the  
-employee salary in a weekly basis with a period of 4 weeks.
+budgeting in a weekly basis with a period of 4 weeks.
 
 This Project contain the following contents: 
 
