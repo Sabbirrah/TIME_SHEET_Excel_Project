@@ -41,6 +41,9 @@ This Project contain the following contents:
 
 - 7 Dashboard
 
+Full Guide 
+
+[TIME_SHEET_GUIDE.pdf](https://github.com/Sabbirrah/TIME_SHEET/files/10846015/TIME_SHEET_GUIDE.pdf)
 
 Emplyee_Details
 
