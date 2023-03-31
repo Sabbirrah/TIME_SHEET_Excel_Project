@@ -9,23 +9,23 @@ Overall, this period sheet is an essential tool for small companies looking to m
 This Project contain the following contents: 
 
 1. Creation of Employer Details: This feature allows users to enter details about their employees, including their names, job titles, and hourly rates.
-1.2 Concatenate: This function combines two or more cell values into a single cell.
+-1 Concatenate: This function combines two or more cell values into a single cell.
 
 2. Timesheet Creation: This feature enables users to create a timesheet that records employee work hours for each day of the week.
-2.1 Dropdown List: Users can choose from a pre-defined list of job titles for their employees.
+-1 Dropdown List: Users can choose from a pre-defined list of job titles for their employees.
 
-2.3 VLOOKUP: This function allows users to search for and retrieve data from a specified table.
+-2 VLOOKUP: This function allows users to search for and retrieve data from a specified table.
 
-2.4 IF & Date: These functions calculate the total hours worked by employees for a given week.
+-3 IF & Date: These functions calculate the total hours worked by employees for a given week.
 
-2.5 Multiplication: This function calculates the total pay for each employee for a given week.
+-4 Multiplication: This function calculates the total pay for each employee for a given week.
 
-2.7 SUM & COUNTIF: These functions calculate the total number of hours worked by employees and the total pay for all employees.
+-5 SUM & COUNTIF: These functions calculate the total number of hours worked by employees and the total pay for all employees.
 
-2.8 Average: This function calculates the average number of hours worked per employee.
+-6 Average: This function calculates the average number of hours worked per employee.
 
 3. Budgeting: This feature enables users to subtract employee pay from the total budget to determine if they are over or under budget for the week.
-3.1 Subtraction: This function calculates the difference between the total budget and employee pay.
+-1 Subtraction: This function calculates the difference between the total budget and employee pay.
 
 4. Creation of New Sheets: This feature allows users to create new sheets for each week of the period.
 
@@ -33,11 +33,11 @@ This Project contain the following contents:
 
 6. Various Functions for Tables: This feature enables users to apply various functions, such as SUM and AVERAGE, to their tables.
 
-6.2 Weekly Tables: This feature displays tables for each week of the period.
+-1 Weekly Tables: This feature displays tables for each week of the period.
 
-6.3 Period Review: This feature allows users to review the entire period to determine if they were over or under budget.
+-2 Period Review: This feature allows users to review the entire period to determine if they were over or under budget.
 
-6.4 Budgeting Table: This feature provides a table that displays the total budget, employee pay, and the difference between the two for each week of the period.
+-3 Budgeting Table: This feature provides a table that displays the total budget, employee pay, and the difference between the two for each week of the period.
 
 7. Dashboard: This feature provides a visual representation of employee work hours and pay for each week of the period.
 
