@@ -1,45 +1,45 @@
-# TIME_SHEET
+# Time_Sheet
 
-This Project it is to create a period sheet for a small company to keep track to the  
-budgeting in a weekly basis with a period of 4 weeks.
+The period sheet created in this GitHub project is a powerful tool for small companies to monitor their budget and expenses on a weekly basis over a period of four weeks. By providing a detailed breakdown of employee hours and wages, the sheet allows for accurate tracking of labor costs, while built-in functions such as VLOOKUP, IF statements, and date calculations streamline the process of entering and processing data.
+
+The sheet includes a range of features to enhance functionality and ease-of-use, including dropdown lists for efficient data entry, tables for organizing and analyzing data, and a dashboard for quick and easy reference to key information. Additionally, the creation of new sheets and the incorporation of functions such as SUM, COUNTIF, and AVERAGE allow for more complex data analysis and budgeting.
+
+Overall, this period sheet is an essential tool for small companies looking to monitor their budget and expenses with accuracy and ease. With its user-friendly design and comprehensive features, it provides a powerful solution to the challenges of budget management for small businesses.
 
 This Project contain the following contents: 
 
-- 1 Creation of Employer details
+- 1. Creation of Employer Details: This feature allows users to enter details about their employees, including their names, job titles, and hourly rates.
+1.2 Concatenate: This function combines two or more cell values into a single cell.
 
-1.2 Concatenate
+- 2. Timesheet Creation: This feature enables users to create a timesheet that records employee work hours for each day of the week.
+2.1 Dropdown List: Users can choose from a pre-defined list of job titles for their employees.
 
-- 2 Timesheet creation
+2.3 VLOOKUP: This function allows users to search for and retrieve data from a specified table.
 
-2.1 Dropdown List
+2.4 IF & Date: These functions calculate the total hours worked by employees for a given week.
 
-2.3 VLOOKUP
+2.5 Multiplication: This function calculates the total pay for each employee for a given week.
 
-2.4 IF & Date
+2.7 SUM & COUNTIF: These functions calculate the total number of hours worked by employees and the total pay for all employees.
 
-2.5 Multiplication 
+2.8 Average: This function calculates the average number of hours worked per employee.
 
-2.7 SUM & COUNTIF
+- 3. Budgeting: This feature enables users to subtract employee pay from the total budget to determine if they are over or under budget for the week.
+3.1 Subtraction: This function calculates the difference between the total budget and employee pay.
 
-2.8 Average
+- 4. Creation of New Sheets: This feature allows users to create new sheets for each week of the period.
 
-- 3 Budgeting 
+- 5. Period Report: This feature provides a summary of employee work hours and pay for each week of the period.
 
-3.1 Substruction
+- 6. Various Functions for Tables: This feature enables users to apply various functions, such as SUM and AVERAGE, to their tables.
 
-- 5 Creation of New Sheets
+6.2 Weekly Tables: This feature displays tables for each week of the period.
 
-- 6 Period Report
+6.3 Period Review: This feature allows users to review the entire period to determine if they were over or under budget.
 
-6.1 Various Functions for Tables
+6.4 Budgeting Table: This feature provides a table that displays the total budget, employee pay, and the difference between the two for each week of the period.
 
-6.2 Weekly Tables
-
-6.3 Period Review
-
-6.4 Budgeting Table
-
-- 7 Dashboard
+- 7. Dashboard: This feature provides a visual representation of employee work hours and pay for each week of the period.
 
 Full Guide 
 
